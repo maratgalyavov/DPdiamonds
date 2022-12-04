@@ -24,7 +24,7 @@ print(df.describe())
 if st.checkbox('Color'):
     draw.drawpie(df["color"].value_counts())
     names = list(df["color"].unique())
-    draw.drawbar("Diamond prices by Тимофей", names, avg_val,"color")
+    draw.drawbar("Diamond prices by color", names, avg_val,"color")
 
 if st.checkbox("Clarity"):
     draw.drawpie(df["clarity"].value_counts())
