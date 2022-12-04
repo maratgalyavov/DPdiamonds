@@ -36,6 +36,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab_server==2.15.2
 macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot2/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-124/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==2.1.1
+matplotlib==3.6.2
 matplotlib-inline==0.1.6
 mistune==2.0.4
 nbclassic==0.4.5
